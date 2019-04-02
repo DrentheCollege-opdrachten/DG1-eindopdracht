@@ -1,1 +1,63 @@
 @import url('https://fonts.googleapis.com/css?family=Asap');
+
+* {
+  font-family: "Asap", sans-serif;
+    margin: 0;
+    color: rgb(16, 17, 18)
+}
+body {
+  background-image: url("img/achtergrond_forum.jpg");
+
+}
+.topBar {
+  display: inline-inline-block;
+  background-color: rgba(27, 49, 255, 0.6);
+  height: 75px;
+  width: 100%;
+  margin-bottom: 100px;
+}
+.header {
+  margin-top: 0;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 7.5px;
+  top: 75px;
+  width: 100%;
+  align-content:  center;
+}
+.logotext {
+  font-size: 3em;
+  font-weight: bold;
+  ali
+}
+
+.menuButton {
+  position: absolute;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 5px 25px;
+  margin: 0px;
+    background-color: #1B318b;
+  top: -12px;
+  color: white;
+}
+.zoekbalk {
+      display: inline;
+    position: absolute;
+    right: 50px;
+    top: 18.75px;
+    background-color: rgb(173, 216, 230, 0.5)
+}
+
+#button1 {
+    left: 20%;
+}
+#button2 {
+    left: 35%;
+}
+#button3 {
+    left: 50%;
+}
+#button4 {
+    left: 65%;
+}
