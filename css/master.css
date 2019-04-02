@@ -37,7 +37,7 @@ body {
   font-size: 16px;
   padding: 5px 25px;
   margin: 0px;
-    background-color: #1B318b;
+    background-color: #80CAFE;
   top: -12px;
   color: white;
 }
@@ -46,8 +46,10 @@ body {
     position: absolute;
     right: 50px;
     top: 18.75px;
-    background-color: rgb(173, 216, 230, 0.5)
+    background-color: rgb(0, 94, 171, 0.5);
+    color: white;
 }
+
 
 #button1 {
     left: 20%;
