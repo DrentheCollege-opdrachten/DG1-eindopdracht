@@ -9,3 +9,4 @@
 * Hoe je je code bij kunt houden op GitHub.
 * Hoe je moet werken met een programma zoals GitKraken.
 * Hoe je een scrumboard kunt aanmaken en bijhouden.
+#
