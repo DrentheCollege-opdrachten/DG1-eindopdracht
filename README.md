@@ -6,6 +6,6 @@
  
 # Wat heb ik geleerd? 
  Door deze opdracht heb ik geleerd;
-		* Hoe je je code bij kunt houden op GitHub.
-		* Hoe je moet werken met een programma zoals GitKraken.
-		* Hoe je een scrumboard kunt aanmaken en bijhouden.
+	* Hoe je je code bij kunt houden op GitHub.
+	* Hoe je moet werken met een programma zoals GitKraken.
+	* Hoe je een scrumboard kunt aanmaken en bijhouden.
